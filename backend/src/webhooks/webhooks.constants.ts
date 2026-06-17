@@ -1,0 +1,2 @@
+export const WEBHOOKS_SERVICE = Symbol('WEBHOOKS_SERVICE');
+export const WEBHOOKS_REPOSITORY = Symbol('WEBHOOKS_REPOSITORY');
